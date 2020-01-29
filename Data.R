@@ -31,9 +31,7 @@ temperature_right <- 1900
 temperature_down <- 1600
 
 
-#
-# parameter of web including sides of plate
-#
+
 number_of_horizontal_lines_in_web <- 7
 number_of_vertical_lines_in_web <- 6
 
@@ -41,9 +39,5 @@ number_of_vertical_lines_in_web <- 6
 distance_between_horizontal_lines <- 16.3
 distance_between_vertical_lines <- 13.3
 
-#
-# @accuracy is accuracy of calculations
-# (not of accurate values of temperatures)
-#
-accuracy <- 0.00005
 
+accuracy <- 0.00005
